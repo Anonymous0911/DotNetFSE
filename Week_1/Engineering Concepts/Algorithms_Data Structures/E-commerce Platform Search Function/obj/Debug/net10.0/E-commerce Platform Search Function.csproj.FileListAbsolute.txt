@@ -1,0 +1,14 @@
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\obj\Debug\net10.0\E-commerce Platform Search Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\obj\Debug\net10.0\E-commerce Platform Search Function.AssemblyInfoInputs.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\obj\Debug\net10.0\E-commerce Platform Search Function.AssemblyInfo.cs
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\obj\Debug\net10.0\E-commerce Platform Search Function.csproj.CoreCompileInputs.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\bin\Debug\net10.0\E-commerce Platform Search Function.exe
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\bin\Debug\net10.0\E-commerce Platform Search Function.deps.json
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\bin\Debug\net10.0\E-commerce Platform Search Function.runtimeconfig.json
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\bin\Debug\net10.0\E-commerce Platform Search Function.dll
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\bin\Debug\net10.0\E-commerce Platform Search Function.pdb
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\obj\Debug\net10.0\E-commerce Platform Search Function.dll
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\obj\Debug\net10.0\refint\E-commerce Platform Search Function.dll
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\obj\Debug\net10.0\E-commerce Platform Search Function.pdb
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\obj\Debug\net10.0\E-commerce Platform Search Function.genruntimeconfig.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\E-commerce Platform Search Function\obj\Debug\net10.0\ref\E-commerce Platform Search Function.dll

@@ -1,0 +1,14 @@
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\bin\Debug\net10.0\Inventory Management System.exe
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\bin\Debug\net10.0\Inventory Management System.deps.json
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\bin\Debug\net10.0\Inventory Management System.runtimeconfig.json
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\bin\Debug\net10.0\Inventory Management System.dll
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\bin\Debug\net10.0\Inventory Management System.pdb
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\obj\Debug\net10.0\Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\obj\Debug\net10.0\Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\obj\Debug\net10.0\Inventory Management System.AssemblyInfo.cs
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\obj\Debug\net10.0\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\obj\Debug\net10.0\Inventory Management System.dll
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\obj\Debug\net10.0\refint\Inventory Management System.dll
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\obj\Debug\net10.0\Inventory Management System.pdb
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\obj\Debug\net10.0\Inventory Management System.genruntimeconfig.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Inventory Management System\obj\Debug\net10.0\ref\Inventory Management System.dll

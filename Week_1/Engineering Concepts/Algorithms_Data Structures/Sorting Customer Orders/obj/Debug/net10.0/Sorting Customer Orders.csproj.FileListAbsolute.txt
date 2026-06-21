@@ -1,0 +1,14 @@
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\bin\Debug\net10.0\Sorting Customer Orders.exe
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\bin\Debug\net10.0\Sorting Customer Orders.deps.json
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\bin\Debug\net10.0\Sorting Customer Orders.runtimeconfig.json
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\bin\Debug\net10.0\Sorting Customer Orders.dll
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\bin\Debug\net10.0\Sorting Customer Orders.pdb
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\obj\Debug\net10.0\Sorting Customer Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\obj\Debug\net10.0\Sorting Customer Orders.AssemblyInfoInputs.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\obj\Debug\net10.0\Sorting Customer Orders.AssemblyInfo.cs
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\obj\Debug\net10.0\Sorting Customer Orders.csproj.CoreCompileInputs.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\obj\Debug\net10.0\Sorting Customer Orders.dll
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\obj\Debug\net10.0\refint\Sorting Customer Orders.dll
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\obj\Debug\net10.0\Sorting Customer Orders.pdb
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\obj\Debug\net10.0\Sorting Customer Orders.genruntimeconfig.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Sorting Customer Orders\obj\Debug\net10.0\ref\Sorting Customer Orders.dll

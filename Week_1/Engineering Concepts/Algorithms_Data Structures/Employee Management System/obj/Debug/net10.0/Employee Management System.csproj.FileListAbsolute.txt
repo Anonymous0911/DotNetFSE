@@ -1,0 +1,14 @@
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\bin\Debug\net10.0\Employee Management System.exe
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\bin\Debug\net10.0\Employee Management System.deps.json
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\bin\Debug\net10.0\Employee Management System.runtimeconfig.json
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\bin\Debug\net10.0\Employee Management System.dll
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\bin\Debug\net10.0\Employee Management System.pdb
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\obj\Debug\net10.0\Employee Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\obj\Debug\net10.0\Employee Management System.AssemblyInfoInputs.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\obj\Debug\net10.0\Employee Management System.AssemblyInfo.cs
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\obj\Debug\net10.0\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\obj\Debug\net10.0\Employee Management System.dll
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\obj\Debug\net10.0\refint\Employee Management System.dll
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\obj\Debug\net10.0\Employee Management System.pdb
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\obj\Debug\net10.0\Employee Management System.genruntimeconfig.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week_1\Engineering Concepts\Algorithms_Data Structures\Employee Management System\obj\Debug\net10.0\ref\Employee Management System.dll
