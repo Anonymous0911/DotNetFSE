@@ -1,0 +1,29 @@
+using System;
+
+public class SMSNotifierDecorator : NotifierDecorator
+{
+    public SMSNotifierDecorator(Notifier notifier)
+        : base(notifier)
+    {
+    }
+
+    public override void Send(string message)
+    {
+        base.Send(message);
+        Console.WriteLine("SMS Notification: " + message);
+    }
+}
+
+public class SlackNotifierDecorator : NotifierDecorator
+{
+    public SlackNotifierDecorator(Notifier notifier)
+        : base(notifier)
+    {
+    }
+
+    public override void Send(string message)
+    {
+        base.Send(message);
+        Console.WriteLine("Slack Notification: " + message);
+    }
+}

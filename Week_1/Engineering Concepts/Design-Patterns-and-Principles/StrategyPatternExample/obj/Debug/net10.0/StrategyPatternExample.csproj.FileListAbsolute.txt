@@ -1,0 +1,14 @@
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/bin/Debug/net10.0/StrategyPatternExample
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/bin/Debug/net10.0/StrategyPatternExample.deps.json
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/bin/Debug/net10.0/StrategyPatternExample.runtimeconfig.json
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/bin/Debug/net10.0/StrategyPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/bin/Debug/net10.0/StrategyPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/obj/Debug/net10.0/StrategyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/obj/Debug/net10.0/StrategyPatternExample.AssemblyInfoInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/obj/Debug/net10.0/StrategyPatternExample.AssemblyInfo.cs
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/obj/Debug/net10.0/StrategyPatternExample.csproj.CoreCompileInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/obj/Debug/net10.0/StrategyPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/obj/Debug/net10.0/refint/StrategyPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/obj/Debug/net10.0/StrategyPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/obj/Debug/net10.0/StrategyPatternExample.genruntimeconfig.cache
+/Users/salmalichattopadhyay/Desktop/week1/StrategyPatternExample/obj/Debug/net10.0/ref/StrategyPatternExample.dll

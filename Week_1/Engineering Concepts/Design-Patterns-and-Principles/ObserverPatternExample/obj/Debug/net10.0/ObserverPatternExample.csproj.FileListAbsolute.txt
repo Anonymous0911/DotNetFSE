@@ -1,0 +1,14 @@
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/obj/Debug/net10.0/ObserverPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/obj/Debug/net10.0/ObserverPatternExample.AssemblyInfoInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/obj/Debug/net10.0/ObserverPatternExample.AssemblyInfo.cs
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/obj/Debug/net10.0/ObserverPatternExample.csproj.CoreCompileInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/bin/Debug/net10.0/ObserverPatternExample
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/bin/Debug/net10.0/ObserverPatternExample.deps.json
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/bin/Debug/net10.0/ObserverPatternExample.runtimeconfig.json
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/bin/Debug/net10.0/ObserverPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/bin/Debug/net10.0/ObserverPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/obj/Debug/net10.0/ObserverPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/obj/Debug/net10.0/refint/ObserverPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/obj/Debug/net10.0/ObserverPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/obj/Debug/net10.0/ObserverPatternExample.genruntimeconfig.cache
+/Users/salmalichattopadhyay/Desktop/week1/ObserverPatternExample/obj/Debug/net10.0/ref/ObserverPatternExample.dll

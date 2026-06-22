@@ -1,0 +1,14 @@
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/bin/Debug/net10.0/MVCPatternExample
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/bin/Debug/net10.0/MVCPatternExample.deps.json
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/bin/Debug/net10.0/MVCPatternExample.runtimeconfig.json
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/bin/Debug/net10.0/MVCPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/bin/Debug/net10.0/MVCPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/obj/Debug/net10.0/MVCPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/obj/Debug/net10.0/MVCPatternExample.AssemblyInfoInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/obj/Debug/net10.0/MVCPatternExample.AssemblyInfo.cs
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/obj/Debug/net10.0/MVCPatternExample.csproj.CoreCompileInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/obj/Debug/net10.0/MVCPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/obj/Debug/net10.0/refint/MVCPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/obj/Debug/net10.0/MVCPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/obj/Debug/net10.0/MVCPatternExample.genruntimeconfig.cache
+/Users/salmalichattopadhyay/Desktop/week1/MVCPatternExample/obj/Debug/net10.0/ref/MVCPatternExample.dll

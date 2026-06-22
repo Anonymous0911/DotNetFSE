@@ -1,0 +1,14 @@
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/bin/Debug/net10.0/AdapterPatternExample
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/bin/Debug/net10.0/AdapterPatternExample.deps.json
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/bin/Debug/net10.0/AdapterPatternExample.runtimeconfig.json
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/bin/Debug/net10.0/AdapterPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/bin/Debug/net10.0/AdapterPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/obj/Debug/net10.0/AdapterPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/obj/Debug/net10.0/AdapterPatternExample.AssemblyInfoInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/obj/Debug/net10.0/AdapterPatternExample.AssemblyInfo.cs
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/obj/Debug/net10.0/AdapterPatternExample.csproj.CoreCompileInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/obj/Debug/net10.0/AdapterPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/obj/Debug/net10.0/refint/AdapterPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/obj/Debug/net10.0/AdapterPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/obj/Debug/net10.0/AdapterPatternExample.genruntimeconfig.cache
+/Users/salmalichattopadhyay/Desktop/week1/AdapterPatternExample/obj/Debug/net10.0/ref/AdapterPatternExample.dll

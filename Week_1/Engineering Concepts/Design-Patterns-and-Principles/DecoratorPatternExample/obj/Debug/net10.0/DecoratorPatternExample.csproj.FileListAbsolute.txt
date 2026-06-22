@@ -1,0 +1,14 @@
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/bin/Debug/net10.0/DecoratorPatternExample
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/bin/Debug/net10.0/DecoratorPatternExample.deps.json
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/bin/Debug/net10.0/DecoratorPatternExample.runtimeconfig.json
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/bin/Debug/net10.0/DecoratorPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/bin/Debug/net10.0/DecoratorPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/obj/Debug/net10.0/DecoratorPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/obj/Debug/net10.0/DecoratorPatternExample.AssemblyInfoInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/obj/Debug/net10.0/DecoratorPatternExample.AssemblyInfo.cs
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/obj/Debug/net10.0/DecoratorPatternExample.csproj.CoreCompileInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/obj/Debug/net10.0/DecoratorPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/obj/Debug/net10.0/refint/DecoratorPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/obj/Debug/net10.0/DecoratorPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/obj/Debug/net10.0/DecoratorPatternExample.genruntimeconfig.cache
+/Users/salmalichattopadhyay/Desktop/week1/DecoratorPatternExample/obj/Debug/net10.0/ref/DecoratorPatternExample.dll

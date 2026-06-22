@@ -1,0 +1,14 @@
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/bin/Debug/net10.0/CommandPatternExample
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/bin/Debug/net10.0/CommandPatternExample.deps.json
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/bin/Debug/net10.0/CommandPatternExample.runtimeconfig.json
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/bin/Debug/net10.0/CommandPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/bin/Debug/net10.0/CommandPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/obj/Debug/net10.0/CommandPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/obj/Debug/net10.0/CommandPatternExample.AssemblyInfoInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/obj/Debug/net10.0/CommandPatternExample.AssemblyInfo.cs
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/obj/Debug/net10.0/CommandPatternExample.csproj.CoreCompileInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/obj/Debug/net10.0/CommandPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/obj/Debug/net10.0/refint/CommandPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/obj/Debug/net10.0/CommandPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/obj/Debug/net10.0/CommandPatternExample.genruntimeconfig.cache
+/Users/salmalichattopadhyay/Desktop/week1/CommandPatternExample/obj/Debug/net10.0/ref/CommandPatternExample.dll

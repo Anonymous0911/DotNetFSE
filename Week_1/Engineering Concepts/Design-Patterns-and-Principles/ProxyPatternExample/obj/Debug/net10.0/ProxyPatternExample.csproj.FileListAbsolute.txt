@@ -1,0 +1,14 @@
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/bin/Debug/net10.0/ProxyPatternExample
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/bin/Debug/net10.0/ProxyPatternExample.deps.json
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/bin/Debug/net10.0/ProxyPatternExample.runtimeconfig.json
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/bin/Debug/net10.0/ProxyPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/bin/Debug/net10.0/ProxyPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/obj/Debug/net10.0/ProxyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/obj/Debug/net10.0/ProxyPatternExample.AssemblyInfoInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/obj/Debug/net10.0/ProxyPatternExample.AssemblyInfo.cs
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/obj/Debug/net10.0/ProxyPatternExample.csproj.CoreCompileInputs.cache
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/obj/Debug/net10.0/ProxyPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/obj/Debug/net10.0/refint/ProxyPatternExample.dll
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/obj/Debug/net10.0/ProxyPatternExample.pdb
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/obj/Debug/net10.0/ProxyPatternExample.genruntimeconfig.cache
+/Users/salmalichattopadhyay/Desktop/week1/ProxyPatternExample/obj/Debug/net10.0/ref/ProxyPatternExample.dll
