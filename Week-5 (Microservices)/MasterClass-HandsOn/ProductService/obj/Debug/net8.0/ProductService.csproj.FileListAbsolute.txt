@@ -1,0 +1,7 @@
+C:\Users\Aaquib\Desktop\DN_FSE\Week-5 (Microservices)\MasterClass-HandsOn\ProductService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Aaquib\Desktop\DN_FSE\Week-5 (Microservices)\MasterClass-HandsOn\ProductService\obj\Debug\net8.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaquib\Desktop\DN_FSE\Week-5 (Microservices)\MasterClass-HandsOn\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfoInputs.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week-5 (Microservices)\MasterClass-HandsOn\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfo.cs
+C:\Users\Aaquib\Desktop\DN_FSE\Week-5 (Microservices)\MasterClass-HandsOn\ProductService\obj\Debug\net8.0\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week-5 (Microservices)\MasterClass-HandsOn\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aaquib\Desktop\DN_FSE\Week-5 (Microservices)\MasterClass-HandsOn\ProductService\obj\Debug\net8.0\ProductService.sourcelink.json
